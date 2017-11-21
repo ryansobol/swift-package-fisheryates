@@ -1,7 +1,6 @@
 # Swift Package: FisherYates
 
-This Swift package is based heavily on the [official tutorial](https://swift.org/package-manager/#example-usage) for the Swift Package Manager. The package produces a library called `FisherYates` which
-extends the following public types in Swift:
+This Swift package is based heavily on the [official tutorial](https://swift.org/package-manager/#example-usage) for the Swift Package Manager. The package produces a library called `FisherYates` which extends the following public types in Swift:
 
 - `CollectionType` protocol
 - `MutableCollectionType` protocol
