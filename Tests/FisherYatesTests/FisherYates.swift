@@ -1,5 +1,5 @@
-@testable import FisherYates
 import XCTest
+@testable import FisherYates
 
 class FisherYatesTests: XCTestCase {
   func testShuffled() {
